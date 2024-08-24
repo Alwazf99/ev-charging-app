@@ -56,8 +56,6 @@ Welcome to the **EV Charging Station Locator App** repository! This app is desig
 
 ## 📸 Screenshots
 
-| Home Screen | Station Details | Navigation |
-|-------------|-----------------|------------|
 | ![Home Screen]![Screenshot_20240514_153625_Expo Go](https://github.com/user-attachments/assets/1308c96b-b405-4592-8a35-f85f5d43f9bf)
  | ![Favorite Screen](![Screenshot_20240514_153853_Expo Go](https://github.com/user-attachments/assets/b3d658e0-6697-4150-94a3-619dccdd3914)
 ) | ![Navigation](![Screenshot_20240514_153718_Android System](https://github.com/user-attachments/assets/c0e62d78-e028-46c3-84c6-8446cab2e7bd)
