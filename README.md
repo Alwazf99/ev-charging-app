@@ -2,8 +2,8 @@
 
 Welcome to the **EV Charging Station Locator App** repository! This app is designed to help users find nearby EV charging stations based on their current location.
 
-![EV Charging Station Locator App](![Screenshot_20240514_152041_Expo Go](https://github.com/user-attachments/assets/190d4c57-94ce-4064-bee8-e12807b8cd30)
-) <!-- Replace with an actual screenshot -->
+
+<img src="https://github.com/user-attachments/assets/190d4c57-94ce-4064-bee8-e12807b8cd30" width="50%" />
 
 ## 🚀 Features
 
@@ -59,7 +59,7 @@ Welcome to the **EV Charging Station Locator App** repository! This app is desig
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/user-attachments/assets/1308c96b-b405-4592-8a35-f85f5d43f9bf" alt="Home Screen" width="30%" />
     <img src="https://github.com/user-attachments/assets/b3d658e0-6697-4150-94a3-619dccdd3914" alt="Favorite Screen" width="30%" />
-    <img src="https://github.com/user-attachments/assets/c0e62d78-e028-46c3-84c6-8446cab2e7bd" />
+    <img src="https://github.com/user-attachments/assets/c0e62d78-e028-46c3-84c6-8446cab2e7bd" alt="navigation" width="30%" />
 </div>
 
 
