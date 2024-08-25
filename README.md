@@ -67,7 +67,5 @@ Welcome to the **EV Charging Station Locator App** repository! This app is desig
 
 Feel free to fork this repository and make improvements. Pull requests are welcome!
 
-## 📄 License
 
-This project is licensed under the MIT License.
 
